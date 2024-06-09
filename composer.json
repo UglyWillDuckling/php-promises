@@ -1,0 +1,8 @@
+{
+    "require": {
+        "react/promise": "^3.2",
+        "amphp/react-adapter": "^2.1",
+        "guzzlehttp/guzzle": "^7.8",
+        "spatie/async": "^1.6"
+    }
+}
